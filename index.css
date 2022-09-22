@@ -10,6 +10,7 @@ body {
     background: orange;
     max-width: 60%;
     margin: auto;
+    top: 50%;
     border: 3px solid black
 }
 h1 {
